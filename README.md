@@ -54,15 +54,6 @@ Bash
 cd client
 npm install
 npm start
-🏗️ Folder Structure
-Plaintext
-├── client/          # React Frontend
-│   ├── src/
-│   │   ├── components/ # Navbar, Hero, Projects
-│   │   └── App.jsx     # Main Logic
-├── server/          # Node.js & Express Backend
-│   ├── models/      # MongoDB Schemas
-│   └── routes/      # API Endpoints
 
 🤝 Connect with Me
 LinkedIn: Aditya Sadewale
