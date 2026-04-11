@@ -50,6 +50,7 @@ npm install
 npm start
 Setup the Frontend:
 
+
 Bash
 cd client
 npm install
