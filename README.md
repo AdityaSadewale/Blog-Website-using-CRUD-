@@ -8,6 +8,8 @@ A high-precision, full-stack blogging application built with the **MERN Stack**.
 
 ---
 
+
+
 ## 🎯 The Vision
 As a competitive 10m shooter and a developer, I believe in **Precision & Focus**. This project, **SUB-2**, was engineered to bridge the gap between complex backend logic and a clean, "Google-style" user experience. It allows for instant content discovery and robust data management.
 
