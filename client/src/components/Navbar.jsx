@@ -1,6 +1,7 @@
 import React from 'react';
 import { Navbar, Container, Nav, Button } from 'react-bootstrap';
 
+
 const Navigation = ({ onAddClick }) => {
   return (
     <Navbar expand="lg" sticky="top" className="navbar-custom">
