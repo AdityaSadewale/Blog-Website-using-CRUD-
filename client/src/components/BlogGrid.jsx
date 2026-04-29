@@ -2,7 +2,6 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import BlogCard from './BlogCard';
 
-
 const BlogGrid = ({ posts, onEdit, onDelete }) => {
   if (posts.length === 0) {
     return (
