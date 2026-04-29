@@ -2,6 +2,7 @@ import React from 'react';
 import { Container } from 'react-bootstrap';
 import { Search } from 'react-bootstrap-icons';
 
+
 const Hero = ({ onSearch }) => {
   return (
     <section className="hero-section">
